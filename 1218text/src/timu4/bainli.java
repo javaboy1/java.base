@@ -11,7 +11,6 @@ public class bainli {
 		a.add("4");
 		a.add("5");
 		System.out.println(""+a);
-		a.get(2);
 	}
 
 }

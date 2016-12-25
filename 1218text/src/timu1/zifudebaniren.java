@@ -28,7 +28,7 @@ for(int i=0;i<str.length;i++)
 		for(int k=0;k<xiaoxieStr.length;k++)
 		{
 	
-        if(str[h]==xiaoxieStr[k] )
+        if(str[h]==xiaoxieStr[k])
 	{
 		xz=xz+1;
 	}
